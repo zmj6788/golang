@@ -1,0 +1,2316 @@
+{
+  "weatherdata": [
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "郑州",
+        "realtime": {
+          "temperature": "21",
+          "humidity": "61",
+          "info": "晴",
+          "wid": "00",
+          "direct": "南风",
+          "power": "4级",
+          "aqi": "51"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "14\/26℃",
+            "weather": "阴转晴",
+            "wid": {
+              "day": "02",
+              "night": "00"
+            },
+            "direct": "南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "14\/28℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "17\/28℃",
+            "weather": "多云转小雨",
+            "wid": {
+              "day": "01",
+              "night": "07"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "16\/26℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "东南风转西南风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "16\/28℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "东北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "北京",
+        "realtime": {
+          "temperature": "18",
+          "humidity": "61",
+          "info": "晴",
+          "wid": "00",
+          "direct": "东风",
+          "power": "1级",
+          "aqi": "130"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "11\/23℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "南风转西南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "14\/27℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西南风转南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "14\/28℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "14\/21℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "东南风转东风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "12\/24℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "上海",
+        "realtime": {
+          "temperature": "20",
+          "humidity": "73",
+          "info": "阴",
+          "wid": "02",
+          "direct": "东北风",
+          "power": "1级",
+          "aqi": "47"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "16\/21℃",
+            "weather": "阴转小雨",
+            "wid": {
+              "day": "02",
+              "night": "07"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "15\/19℃",
+            "weather": "小雨转阴",
+            "wid": {
+              "day": "07",
+              "night": "02"
+            },
+            "direct": "东南风转持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "15\/23℃",
+            "weather": "阴转小雨",
+            "wid": {
+              "day": "02",
+              "night": "07"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "16\/20℃",
+            "weather": "小雨转阴",
+            "wid": {
+              "day": "07",
+              "night": "02"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "16\/24℃",
+            "weather": "阴",
+            "wid": {
+              "day": "02",
+              "night": "02"
+            },
+            "direct": "西北风转持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "广州",
+        "realtime": {
+          "temperature": "25",
+          "humidity": "81",
+          "info": "阴",
+          "wid": "02",
+          "direct": "西北风",
+          "power": "1级",
+          "aqi": "76"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "21\/28℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "22\/29℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "南风转持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "23\/30℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "南风转持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "23\/30℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "南风转持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "23\/31℃",
+            "weather": "多云转雷阵雨",
+            "wid": {
+              "day": "01",
+              "night": "04"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "哈尔滨",
+        "realtime": {
+          "temperature": "15",
+          "humidity": "54",
+          "info": "晴",
+          "wid": "00",
+          "direct": "南风",
+          "power": "3级",
+          "aqi": "155"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "11\/18℃",
+            "weather": "多云转阵雨",
+            "wid": {
+              "day": "01",
+              "night": "03"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "8\/23℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "12\/22℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "西南风转南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "14\/24℃",
+            "weather": "多云转阵雨",
+            "wid": {
+              "day": "01",
+              "night": "03"
+            },
+            "direct": "西南风转南风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "5\/19℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "西南风转西风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "长春",
+        "realtime": {
+          "temperature": "15",
+          "humidity": "62",
+          "info": "晴",
+          "wid": "00",
+          "direct": "南风",
+          "power": "4级",
+          "aqi": "71"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "11\/20℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "12\/24℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "12\/23℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "10\/23℃",
+            "weather": "多云转小雨",
+            "wid": {
+              "day": "01",
+              "night": "07"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "3\/17℃",
+            "weather": "小雨转晴",
+            "wid": {
+              "day": "07",
+              "night": "00"
+            },
+            "direct": "西南风转西风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "沈阳",
+        "realtime": {
+          "temperature": "12",
+          "humidity": "69",
+          "info": "多云",
+          "wid": "01",
+          "direct": "南风",
+          "power": "3级",
+          "aqi": "54"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "12\/21℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "南风转西南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "11\/24℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "11\/24℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "12\/24℃",
+            "weather": "多云转阵雨",
+            "wid": {
+              "day": "01",
+              "night": "03"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "6\/16℃",
+            "weather": "阵雨转多云",
+            "wid": {
+              "day": "03",
+              "night": "01"
+            },
+            "direct": "西南风转西北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "石家庄",
+        "realtime": {
+          "temperature": "21",
+          "humidity": "60",
+          "info": "晴",
+          "wid": "00",
+          "direct": "东南风",
+          "power": "4级",
+          "aqi": "75"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "12\/28℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "15\/28℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "17\/28℃",
+            "weather": "多云转阴",
+            "wid": {
+              "day": "01",
+              "night": "02"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "16\/26℃",
+            "weather": "雷阵雨转阴",
+            "wid": {
+              "day": "04",
+              "night": "02"
+            },
+            "direct": "东南风转西北风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "11\/24℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "南风转西北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "兰州",
+        "realtime": {
+          "temperature": "16",
+          "humidity": "23",
+          "info": "晴",
+          "wid": "00",
+          "direct": "东风",
+          "power": "1级",
+          "aqi": "40"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "7\/24℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "8\/25℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向转南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "7\/27℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东北风转西风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "9\/22℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "东北风转西北风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "11\/24℃",
+            "weather": "多云转阴",
+            "wid": {
+              "day": "01",
+              "night": "02"
+            },
+            "direct": "北风转东南风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "西宁",
+        "realtime": {
+          "temperature": "13",
+          "humidity": "18",
+          "info": "多云",
+          "wid": "01",
+          "direct": "东南风",
+          "power": "3级",
+          "aqi": "27"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "2\/19℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "4\/21℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "2\/20℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "西风转持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "3\/20℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "7\/21℃",
+            "weather": "阴",
+            "wid": {
+              "day": "02",
+              "night": "02"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "西安",
+        "realtime": {
+          "temperature": "21",
+          "humidity": "51",
+          "info": "多云",
+          "wid": "01",
+          "direct": "东北风",
+          "power": "2级",
+          "aqi": "52"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "13\/25℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "15\/30℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "15\/30℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "16\/27℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "16\/25℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "济南",
+        "realtime": {
+          "temperature": "21",
+          "humidity": "53",
+          "info": "晴",
+          "wid": "00",
+          "direct": "南风",
+          "power": "3级",
+          "aqi": "60"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "18\/27℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "18\/29℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "17\/30℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "14\/25℃",
+            "weather": "阴转雷阵雨",
+            "wid": {
+              "day": "02",
+              "night": "04"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "13\/26℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "太原",
+        "realtime": {
+          "temperature": "14",
+          "humidity": "52",
+          "info": "晴",
+          "wid": "00",
+          "direct": "北风",
+          "power": "1级",
+          "aqi": "60"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "8\/28℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西南风转西风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "9\/28℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "西南风转东北风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "12\/29℃",
+            "weather": "阴转中雨",
+            "wid": {
+              "day": "02",
+              "night": "08"
+            },
+            "direct": "南风转东南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "7\/27℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "西风转北风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "6\/23℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "西北风转北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "合肥",
+        "realtime": {
+          "temperature": "17",
+          "humidity": "90",
+          "info": "阴",
+          "wid": "02",
+          "direct": "东南风",
+          "power": "1级",
+          "aqi": "70"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "14\/22℃",
+            "weather": "多云转小雨",
+            "wid": {
+              "day": "01",
+              "night": "07"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "15\/24℃",
+            "weather": "阴",
+            "wid": {
+              "day": "02",
+              "night": "02"
+            },
+            "direct": "东北风转东南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "15\/24℃",
+            "weather": "阴转小雨",
+            "wid": {
+              "day": "02",
+              "night": "07"
+            },
+            "direct": "东风转东南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "15\/22℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "西北风转东风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "15\/25℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "东北风转东风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "武汉",
+        "realtime": {
+          "temperature": "19",
+          "humidity": "88",
+          "info": "多云",
+          "wid": "01",
+          "direct": "西南风",
+          "power": "1级",
+          "aqi": "63"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "15\/22℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "15\/26℃",
+            "weather": "阴转晴",
+            "wid": {
+              "day": "02",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "19\/24℃",
+            "weather": "中雨转小雨",
+            "wid": {
+              "day": "08",
+              "night": "07"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "19\/27℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "持续无风向转东北风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "20\/28℃",
+            "weather": "多云转小雨",
+            "wid": {
+              "day": "01",
+              "night": "07"
+            },
+            "direct": "东北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "长沙",
+        "realtime": {
+          "temperature": "18",
+          "humidity": "89",
+          "info": "阴",
+          "wid": "02",
+          "direct": "北风",
+          "power": "2级",
+          "aqi": "60"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "17\/21℃",
+            "weather": "小雨",
+            "wid": {
+              "day": "07",
+              "night": "07"
+            },
+            "direct": "北风转西北风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "18\/26℃",
+            "weather": "阴转小雨",
+            "wid": {
+              "day": "02",
+              "night": "07"
+            },
+            "direct": "南风转东南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "20\/24℃",
+            "weather": "中雨转小雨",
+            "wid": {
+              "day": "08",
+              "night": "07"
+            },
+            "direct": "东北风转南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "21\/29℃",
+            "weather": "多云转小雨",
+            "wid": {
+              "day": "01",
+              "night": "07"
+            },
+            "direct": "东风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "21\/24℃",
+            "weather": "小雨",
+            "wid": {
+              "day": "07",
+              "night": "07"
+            },
+            "direct": "西北风转东南风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "南京",
+        "realtime": {
+          "temperature": "19",
+          "humidity": "70",
+          "info": "阴",
+          "wid": "02",
+          "direct": "东风",
+          "power": "2级",
+          "aqi": "56"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "17\/22℃",
+            "weather": "阴转阵雨",
+            "wid": {
+              "day": "02",
+              "night": "03"
+            },
+            "direct": "东南风转东风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "17\/24℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "17\/24℃",
+            "weather": "阴转中雨",
+            "wid": {
+              "day": "02",
+              "night": "08"
+            },
+            "direct": "东南风转东风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "16\/24℃",
+            "weather": "中雨转多云",
+            "wid": {
+              "day": "08",
+              "night": "01"
+            },
+            "direct": "西北风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "15\/25℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "西北风转东风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "成都",
+        "realtime": {
+          "temperature": "19",
+          "humidity": "76",
+          "info": "雾",
+          "wid": "18",
+          "direct": "东风",
+          "power": "1级",
+          "aqi": "40"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "15\/26℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "16\/26℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "17\/28℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "19\/29℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "18\/27℃",
+            "weather": "多云转小雨",
+            "wid": {
+              "day": "01",
+              "night": "07"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "贵阳",
+        "realtime": {
+          "temperature": "16",
+          "humidity": "94",
+          "info": "多云",
+          "wid": "01",
+          "direct": "北风",
+          "power": "2级",
+          "aqi": "42"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "15\/23℃",
+            "weather": "阵雨转中雨",
+            "wid": {
+              "day": "03",
+              "night": "08"
+            },
+            "direct": "南风转东北风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "15\/25℃",
+            "weather": "阵雨转小雨",
+            "wid": {
+              "day": "03",
+              "night": "07"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "17\/29℃",
+            "weather": "阵雨转多云",
+            "wid": {
+              "day": "03",
+              "night": "01"
+            },
+            "direct": "南风转东南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "18\/29℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东南风转南风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "16\/29℃",
+            "weather": "雷阵雨转多云",
+            "wid": {
+              "day": "04",
+              "night": "01"
+            },
+            "direct": "东北风转东南风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "昆明",
+        "realtime": {
+          "temperature": "21",
+          "humidity": "41",
+          "info": "晴",
+          "wid": "00",
+          "direct": "西风",
+          "power": "3级",
+          "aqi": "59"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "14\/27℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西风转持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "14\/27℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "西风转持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "13\/27℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "西风转持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "13\/27℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "13\/27℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "杭州",
+        "realtime": {
+          "temperature": "19",
+          "humidity": "83",
+          "info": "小雨",
+          "wid": "07",
+          "direct": "北风",
+          "power": "2级",
+          "aqi": "62"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "16\/22℃",
+            "weather": "多云转小雨",
+            "wid": {
+              "day": "01",
+              "night": "07"
+            },
+            "direct": "东北风转北风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "16\/24℃",
+            "weather": "小雨转阴",
+            "wid": {
+              "day": "07",
+              "night": "02"
+            },
+            "direct": "东北风转北风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "16\/22℃",
+            "weather": "阴转小到中雨",
+            "wid": {
+              "day": "02",
+              "night": "21"
+            },
+            "direct": "东风转西北风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "18\/25℃",
+            "weather": "小到中雨转阴",
+            "wid": {
+              "day": "21",
+              "night": "02"
+            },
+            "direct": "东北风转持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "17\/28℃",
+            "weather": "小雨转小到中雨",
+            "wid": {
+              "day": "07",
+              "night": "21"
+            },
+            "direct": "东北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "南昌",
+        "realtime": {
+          "temperature": "19",
+          "humidity": "98",
+          "info": "小雨",
+          "wid": "07",
+          "direct": "北风",
+          "power": "1级",
+          "aqi": "33"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "19\/24℃",
+            "weather": "雷阵雨转阴",
+            "wid": {
+              "day": "04",
+              "night": "02"
+            },
+            "direct": "西北风转东风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "19\/26℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "21\/25℃",
+            "weather": "雷阵雨",
+            "wid": {
+              "day": "04",
+              "night": "04"
+            },
+            "direct": "东北风转东风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "21\/29℃",
+            "weather": "雷阵雨转阴",
+            "wid": {
+              "day": "04",
+              "night": "02"
+            },
+            "direct": "东北风转西风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "21\/27℃",
+            "weather": "阴",
+            "wid": {
+              "day": "02",
+              "night": "02"
+            },
+            "direct": "东南风转东风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "福州",
+        "realtime": {
+          "temperature": "20",
+          "humidity": "78",
+          "info": "阴",
+          "wid": "02",
+          "direct": "南风",
+          "power": "2级",
+          "aqi": "49"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "18\/27℃",
+            "weather": "阴",
+            "wid": {
+              "day": "02",
+              "night": "02"
+            },
+            "direct": "东南风转西北风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "19\/27℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "东南风转东风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "19\/23℃",
+            "weather": "中雨转阴",
+            "wid": {
+              "day": "08",
+              "night": "02"
+            },
+            "direct": "东南风转西南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "19\/30℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "西风转持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "21\/34℃",
+            "weather": "中雨转阴",
+            "wid": {
+              "day": "08",
+              "night": "02"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "台北",
+        "realtime": {
+          "temperature": "23",
+          "humidity": "83",
+          "info": "多云",
+          "wid": "01",
+          "direct": "东南风",
+          "power": "2级",
+          "aqi": "34"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "21\/28℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "22\/26℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "22\/26℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "23\/28℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "22\/29℃",
+            "weather": "小雨",
+            "wid": {
+              "day": "07",
+              "night": "07"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "海口",
+        "realtime": {
+          "temperature": "26",
+          "humidity": "87",
+          "info": "晴",
+          "wid": "00",
+          "direct": "东南风",
+          "power": "3级",
+          "aqi": "32"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "24\/30℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "23\/31℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "24\/33℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "23\/34℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "持续无风向转南风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "24\/34℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "乌鲁木齐",
+        "realtime": {
+          "temperature": "15",
+          "humidity": "39",
+          "info": "多云",
+          "wid": "01",
+          "direct": "北风",
+          "power": "1级",
+          "aqi": "27"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "9\/18℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "北风转东南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "0\/23℃",
+            "weather": "小雨转多云",
+            "wid": {
+              "day": "07",
+              "night": "01"
+            },
+            "direct": "西北风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "1\/12℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "4\/15℃",
+            "weather": "晴转阴",
+            "wid": {
+              "day": "00",
+              "night": "02"
+            },
+            "direct": "西北风转持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "8\/18℃",
+            "weather": "晴转阴",
+            "wid": {
+              "day": "00",
+              "night": "02"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "呼和浩特",
+        "realtime": {
+          "temperature": "19",
+          "humidity": "20",
+          "info": "晴",
+          "wid": "00",
+          "direct": "西南风",
+          "power": "2级",
+          "aqi": "87"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "9\/26℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "11\/26℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "7\/27℃",
+            "weather": "小雨",
+            "wid": {
+              "day": "07",
+              "night": "07"
+            },
+            "direct": "西南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "3\/19℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西南风转西北风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "5\/17℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西北风转北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "银川",
+        "realtime": {
+          "temperature": "18",
+          "humidity": "18",
+          "info": "晴",
+          "wid": "00",
+          "direct": "东南风",
+          "power": "1级",
+          "aqi": "50"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "10\/27℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "12\/27℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "7\/25℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "西北风转持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "7\/24℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "7\/21℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "南宁",
+        "realtime": {
+          "temperature": "24",
+          "humidity": "92",
+          "info": "阴",
+          "wid": "02",
+          "direct": "东南风",
+          "power": "3级",
+          "aqi": "51"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "23\/28℃",
+            "weather": "小雨转阴",
+            "wid": {
+              "day": "07",
+              "night": "02"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "23\/28℃",
+            "weather": "阴转多云",
+            "wid": {
+              "day": "02",
+              "night": "01"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "24\/32℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "23\/33℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "23\/32℃",
+            "weather": "多云转阵雨",
+            "wid": {
+              "day": "01",
+              "night": "03"
+            },
+            "direct": "东南风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "拉萨",
+        "realtime": {
+          "temperature": "6",
+          "humidity": "43",
+          "info": "多云",
+          "wid": "01",
+          "direct": "北风",
+          "power": "3级",
+          "aqi": "36"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "2\/12℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "2\/13℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向转北风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "2\/15℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "北风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "4\/15℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "西南风转持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "5\/16℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "天津",
+        "realtime": {
+          "temperature": "18",
+          "humidity": "65",
+          "info": "霾",
+          "wid": "53",
+          "direct": "东南风",
+          "power": "1级",
+          "aqi": "212"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "14\/25℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "西南风转南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "16\/29℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "南风转东南风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "16\/28℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东南风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "14\/23℃",
+            "weather": "阴转雷阵雨",
+            "wid": {
+              "day": "02",
+              "night": "04"
+            },
+            "direct": "东南风转东风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "11\/23℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "北风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "重庆",
+        "realtime": {
+          "temperature": "20",
+          "humidity": "75",
+          "info": "多云",
+          "wid": "01",
+          "direct": "东北风",
+          "power": "2级",
+          "aqi": "44"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "18\/25℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "东北风转西南风"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "18\/28℃",
+            "weather": "多云转小雨",
+            "wid": {
+              "day": "01",
+              "night": "07"
+            },
+            "direct": "东风转北风"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "21\/29℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "北风转东北风"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "20\/31℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "东北风"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "20\/29℃",
+            "weather": "小雨",
+            "wid": {
+              "day": "07",
+              "night": "07"
+            },
+            "direct": "南风转东南风"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "香港",
+        "realtime": {
+          "temperature": "25",
+          "humidity": "71",
+          "info": "晴",
+          "wid": "00",
+          "direct": "东南风",
+          "power": "3级",
+          "aqi": "59"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "24\/28℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "东风转持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "25\/29℃",
+            "weather": "多云转晴",
+            "wid": {
+              "day": "01",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "26\/30℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "26\/31℃",
+            "weather": "晴",
+            "wid": {
+              "day": "00",
+              "night": "00"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "26\/32℃",
+            "weather": "晴转多云",
+            "wid": {
+              "day": "00",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    },
+    {
+      "reason": "查询成功!",
+      "result": {
+        "city": "澳门",
+        "realtime": {
+          "temperature": "24",
+          "humidity": "88",
+          "info": "晴",
+          "wid": "00",
+          "direct": "东南风",
+          "power": "3级",
+          "aqi": "87"
+        },
+        "future": [
+          {
+            "date": "2024-04-11",
+            "temperature": "22\/26℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-12",
+            "temperature": "23\/28℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-13",
+            "temperature": "23\/29℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-14",
+            "temperature": "23\/30℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          },
+          {
+            "date": "2024-04-15",
+            "temperature": "24\/31℃",
+            "weather": "多云",
+            "wid": {
+              "day": "01",
+              "night": "01"
+            },
+            "direct": "持续无风向"
+          }
+        ]
+      },
+      "error_code": 0
+    }
+  ]
+}

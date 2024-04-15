@@ -1,0 +1,175 @@
+{
+  "reason": "查询成功",
+  "result": [
+    {
+      "id": "1",
+      "province": "北京",
+      "city": "北京"
+    },
+    {
+      "id": "2",
+      "province": "天津",
+      "city": "天津"
+    },
+    {
+      "id": "3",
+      "province": "上海",
+      "city": "上海"
+    },
+    {
+      "id": "4",
+      "province": "重庆",
+      "city": "重庆"
+    },
+    {
+      "id": "5",
+      "province": "黑龙江",
+      "city": "哈尔滨"
+    },
+    {
+      "id": "6",
+      "province": "吉林",
+      "city": "长春"
+    },
+    {
+      "id": "7",
+      "province": "辽宁",
+      "city": "沈阳"
+    },
+    {
+      "id": "8",
+      "province": "河北",
+      "city": "石家庄"
+    },
+    {
+      "id": "9",
+      "province": "江苏",
+      "city": "南京"
+    },
+    {
+      "id": "10",
+      "province": "浙江",
+      "city": "杭州"
+    },
+    {
+      "id": "11",
+      "province": "安徽",
+      "city": "合肥"
+    },
+    {
+      "id": "12",
+      "province": "福建",
+      "city": "福州"
+    },
+    {
+      "id": "13",
+      "province": "江西",
+      "city": "南昌"
+    },
+    {
+      "id": "14",
+      "province": "山东",
+      "city": "济南"
+    },
+    {
+      "id": "15",
+      "province": "河南",
+      "city": "郑州"
+    },
+    {
+      "id": "16",
+      "province": "湖北",
+      "city": "武汉"
+    },
+    {
+      "id": "17",
+      "province": "湖南",
+      "city": "长沙"
+    },
+    {
+      "id": "18",
+      "province": "广东",
+      "city": "广州"
+    },
+    {
+      "id": "19",
+      "province": "海南",
+      "city": "海口"
+    },
+    {
+      "id": "20",
+      "province": "四川",
+      "city": "成都"
+    },
+    {
+      "id": "21",
+      "province": "贵州",
+      "city": "贵阳"
+    },
+    {
+      "id": "22",
+      "province": "云南",
+      "city": "昆明"
+    },
+    {
+      "id": "23",
+      "province": "陕西",
+      "city": "西安"
+    },
+    {
+      "id": "24",
+      "province": "甘肃",
+      "city": "兰州"
+    },
+    {
+      "id": "25",
+      "province": "青海",
+      "city": "西宁"
+    },
+    {
+      "id": "26",
+      "province": "台湾",
+      "city": "台北"
+    },
+    {
+      "id": "27",
+      "province": "内蒙古",
+      "city": "呼和浩特"
+    },
+    {
+      "id": "28",
+      "province": "宁夏",
+      "city": "银川"
+    },
+    {
+      "id": "29",
+      "province": "新疆",
+      "city": "乌鲁木齐"
+    },
+    {
+      "id": "30",
+      "province": "西藏",
+      "city": "拉萨"
+    },
+    {
+      "id": "31",
+      "province": "广西",
+      "city": "南宁"
+    },
+    {
+      "id": "32",
+      "province": "香港",
+      "city": "香港"
+    },
+    {
+      "id": "33",
+      "province": "澳门",
+      "city": "澳门"
+    },
+    {
+      "id": "34",
+      "province": "山西",
+      "city": "太原"
+    }
+  ]
+}
